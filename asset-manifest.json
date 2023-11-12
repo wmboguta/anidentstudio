@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69eda509.chunk.css",
+    "main.js": "/static/js/main.03edce10.chunk.js",
+    "main.js.map": "/static/js/main.03edce10.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f9f1cfd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f9f1cfd.js.map",
+    "static/css/2.eaee47d2.chunk.css": "/static/css/2.eaee47d2.chunk.css",
+    "static/js/2.135431fb.chunk.js": "/static/js/2.135431fb.chunk.js",
+    "static/js/2.135431fb.chunk.js.map": "/static/js/2.135431fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a40b1ab445f264156ad9afad50d9628c.js": "/precache-manifest.a40b1ab445f264156ad9afad50d9628c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eaee47d2.chunk.css.map": "/static/css/2.eaee47d2.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.ed62b9f1.woff2",
+    "static/media/doctor400x300.svg": "/static/media/doctor400x300.7e122787.svg",
+    "static/media/image1.jpg": "/static/media/image1.a40aed54.jpg",
+    "static/media/katarzyna_boguta2.jpg": "/static/media/katarzyna_boguta2.93848916.jpg",
+    "static/media/logo.png": "/static/media/logo.a2425c35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9f1cfd.js",
+    "static/css/2.eaee47d2.chunk.css",
+    "static/js/2.135431fb.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.03edce10.chunk.js"
+  ]
+}
